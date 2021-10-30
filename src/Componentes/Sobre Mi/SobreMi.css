@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=JetBrains+Mono:wght@300&display=swap');
+
+h3{
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #5f5f5f;
+    color: #ffce3c;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+h5{
+    text-align: right;
+}
+
+.frase{
+    padding-top: 15px;
+    font-family: 'Bebas Neue';
+    font-size: 30px;
+    text-align: center;
+}
+#fraseColor{
+    color: #ffce3c;
+}
+.experiencia h3{
+    font-family: 'Bebas Neue';
+    font-weight: bold;
+}
+.experiencia h5{
+    text-align: center !important;
+    font-weight: bold;
+}
+.experiencia p{
+    margin-bottom: 5px;
+}

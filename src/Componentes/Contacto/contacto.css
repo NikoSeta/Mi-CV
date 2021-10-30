@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=JetBrains+Mono:wght@300&display=swap');
+.type{
+    font-family: 'Bebas Neue';
+}
+.form{
+    background-color: black;
+}
+.btn-send{
+    float: right;
+}
