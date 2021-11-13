@@ -34,3 +34,7 @@ h5{
 .experiencia p{
     margin-bottom: 5px;
 }
+
+.bigBox{
+    display: flex;
+}

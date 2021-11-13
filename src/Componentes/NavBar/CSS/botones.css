@@ -2,4 +2,9 @@
     width: 165px;
     margin-left: 3rem;
     background-color: #ffce3c !important;
+    transition: background-color .5s;
+}
+
+.tamano:hover {
+    background-color: #ffc107!important;
 }
